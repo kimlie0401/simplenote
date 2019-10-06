@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simplenote/static/css/main.f80e1869.chunk.css",
-    "main.js": "/simplenote/static/js/main.9275cadb.chunk.js",
-    "main.js.map": "/simplenote/static/js/main.9275cadb.chunk.js.map",
+    "main.js": "/simplenote/static/js/main.7af49373.chunk.js",
+    "main.js.map": "/simplenote/static/js/main.7af49373.chunk.js.map",
     "runtime-main.js": "/simplenote/static/js/runtime-main.ae274dfc.js",
     "runtime-main.js.map": "/simplenote/static/js/runtime-main.ae274dfc.js.map",
     "static/js/2.56edc678.chunk.js": "/simplenote/static/js/2.56edc678.chunk.js",
     "static/js/2.56edc678.chunk.js.map": "/simplenote/static/js/2.56edc678.chunk.js.map",
     "index.html": "/simplenote/index.html",
-    "precache-manifest.4f7281bcf78cad872b167a21c21d8753.js": "/simplenote/precache-manifest.4f7281bcf78cad872b167a21c21d8753.js",
+    "precache-manifest.1b93a241b4332b79a1e6b0bb32c534b9.js": "/simplenote/precache-manifest.1b93a241b4332b79a1e6b0bb32c534b9.js",
     "service-worker.js": "/simplenote/service-worker.js",
     "static/css/main.f80e1869.chunk.css.map": "/simplenote/static/css/main.f80e1869.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ae274dfc.js",
     "static/js/2.56edc678.chunk.js",
     "static/css/main.f80e1869.chunk.css",
-    "static/js/main.9275cadb.chunk.js"
+    "static/js/main.7af49373.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27faf6e43b96735e984abe95826bc570",
+    "revision": "e098e4c777cb700b26ddccb75ab01f1f",
     "url": "/simplenote/index.html"
   },
   {
-    "revision": "5a402d9c62d7ea55ee96",
+    "revision": "5741d5326187209afd3b",
     "url": "/simplenote/static/css/main.f80e1869.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simplenote/static/js/2.56edc678.chunk.js"
   },
   {
-    "revision": "5a402d9c62d7ea55ee96",
-    "url": "/simplenote/static/js/main.9275cadb.chunk.js"
+    "revision": "5741d5326187209afd3b",
+    "url": "/simplenote/static/js/main.7af49373.chunk.js"
   },
   {
     "revision": "15a2a3d5632cac234607",
