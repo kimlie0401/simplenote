@@ -6,12 +6,8 @@ import "./App.css";
 
 class App extends Component {
   state = {
-    notes: [
-      { id: 0, title: "Today", contents: "Good day" },
-      { id: 1, title: "Weather", contents: "Nice" },
-      { id: 2, title: "Hot", contents: "Very Hot" }
-    ],
-    activeId: null
+    notes: [{ id: 0, title: "Welcome!!", contents: "DK's Simple Note!!" }],
+    activeId: 0
   };
   generateId = () => {
     // Math.random should be unique because of its seeding algorithm.

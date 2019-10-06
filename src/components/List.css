@@ -4,3 +4,10 @@ div.list {
   height: 100%;
   border-right: 1px solid #eee;
 }
+
+@media (max-width: 800px) {
+  div.list {
+    min-width: 150px;
+    width: 150px;
+  }
+}
