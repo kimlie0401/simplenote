@@ -13,17 +13,6 @@ div.header > div.title {
   font-weight: 800;
 }
 
-div.header > div.title > a {
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 10px;
-}
-
-div.header > div.title > a > img.logo {
-  height: 35px;
-  border-radius: 100%;
-}
-
 div.header > div.title > span {
   vertical-align: middle;
 }
